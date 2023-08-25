@@ -9,7 +9,7 @@ crear aplicaciones móviles.
     * Es un runtime que permite desplegar aplicaciones Ionic en dispositivos iOS y Android.
 - Para poder utilizar Capacitor, teniamos que tener el Android.
 - Tuve problemas en utilizar el Android porque para instalarlo tenia que tener XCORE y para tener
-XCORE tenia tener un macOS. Estaba intentanlo poder instarlo en una maquina virtual en VirtuaBox pero
+XCORE tenia tener un macOS. Estaba intentanlo poder instalarlo en una maquina virtual en VirtuaBox pero
 tuve problemas...
 - Pude hacer el diseño pero me falto poder desplegar en un dispositivo.
 - Aqui pueden ver el diseño:
@@ -51,7 +51,7 @@ regresar al intro.
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto02_DigitalBuho/assets/129924045/eb02f404-1fd0-4fe4-be51-0601f816e533)
 
 
-### Aun quiero agregar algunas cosas pero esto es un adelanto de mi proyecto. Quiero agregar aun el registro: calendario,informacion de la mascota, genero, edad, direccion, foto , etc...
+### Aun quiero agregar algunas cosas pero esto es un adelanto de mi proyecto. Quiero agregar aun el registro: calendario,informacion de la mascota, genero, edad, direccion, foto , etc... Tambien quiero poder desplegarlo en un Android.
 
 Integrante:
 - Maricarmen Catalina Raymundo Romero
