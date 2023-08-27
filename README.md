@@ -33,7 +33,9 @@ tuve problemas...
 
 #  INICIO
 - Aqui podemos iniciar nuestra cuenta o registrarno. Tambien hay dos opcion mas que son ver los veterinarios y poder 
-regresar al intro. 
+regresar al intro.
+
+![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto02_DigitalBuho/assets/129924045/376bece8-3842-40a6-881d-cd66fb38f4f8)
 
 # BOTON VETERINARIO
 - Al dar al boton veterinario, nos lleva las listas de los veterinarios.
